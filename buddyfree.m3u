@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:1 tvg-logo="https://imgur.com/a/Pb2liil.png" group-title="😎BUDDY😎🇵🇭FREE IPTV FOR ALL!📡",A2Z
+#EXTINF:1 tvg-id="kapamilya/a2z" provider="KAPAMILYA" tvg-logo="" provider-logo="" provider-type="iptv" group-title="😎BUDDY😎🇵🇭FREE IPTV FOR ALL!📡",[KAPAMILYA] A2Z
 http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/a2z/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
 #EXTINF:2 tvg-id="kapamilya/abcaustralia" provider="KAPAMILYA" tvg-logo="" provider-logo="" provider-type="iptv" group-title="😎BUDDY😎🇵🇭FREE IPTV FOR ALL!📡",[KAPAMILYA] ABC AUSTRALIA
 http://cdn-1-xigncode.enicsnet.com:9111/stream/kapamilya/abcaustralia/master.m3u8?u=xigncode&p=84567e56fceb1e86d447133230091b15271b1fec187396930f700374f982fb41
